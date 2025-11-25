@@ -1,0 +1,13 @@
+id,type,name,color_main,color_sub,pattern,thickness,formality,seasonality,care,status,image_path,last_worn_at,wear_count,color
+,상의,,,,,,,,,,images/상의.jpg,,,
+,상의,,,,,,,,,,images/바지.jpg,,,
+,상의,,,,,,,,,,images/바지.jpg,,,
+,상의,,,,,,,,,,images/상의.jpg,,,
+,상의,,,,,,,,,,images/바지.jpg,,,
+,상의,바지,,,,,,,,,images/바지.jpg,,,검정
+,하의,,,,,,,,,,images/바지.jpg,,,미입력
+,하의,진짜 바지,,,,,,,,,images/바지3.jpg,,,미입력
+,하의,그냥 바지,,,,,,,,,images/바지2.jpg,,,검정
+,상의,그냥 상의,,,,,,,,,images/상의2.jpg,,,검정
+,하의,아마 바지,,,,,,,,,images/바지.jpg,,,검정
+,상의,갈색 상의,,,,,,,,,images/상의3.jpg,,,갈색

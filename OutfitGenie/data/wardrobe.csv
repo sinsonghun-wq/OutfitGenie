@@ -1,0 +1,11 @@
+﻿id,type,name,color,pattern,formality,season,thickness,image_path
+item_2,top,맨투맨,검정,솔리드(무늬 없음),캐주얼,겨울,2,images\item_2.jpg
+item_3,top,맨투맨,네이비,솔리드(무늬 없음),캐주얼,겨울,2,images\item_3.jpg
+item_4,top,데님 팬츠,미디엄 블루,솔리드(무늬 없음),캐주얼,,4,images\item_4.jpg
+item_5,top,니트,스모크 블루,솔리드(무늬 없음),캐주얼,,3,images\item_5.jpg
+item_6,bottom,트레이닝,검정,솔리드(무늬 없음),캐주얼,,3,images\item_6.jpg
+item_7,bottom,트레이닝,흰색,솔리드(무늬 없음),캐주얼,,3,images\item_7.jpg
+item_8,bottom,슈트 팬츠,검정,솔리드(무늬 없음),캐주얼,,3,images\item_8.jpg
+item_9,top,후드 티셔츠,빨강,솔리드(무늬 없음),캐주얼,,3,images\item_9.jpg
+item_10,top,니트,회색,솔리드(무늬 없음),캐주얼,겨울,3,images\item_10.jpg
+item_11,top,코튼 팬츠,베이직,솔리드(무늬 없음),캐주얼,,4,images\item_11.jpg

@@ -1,0 +1,4 @@
+id,type,name,color_main,color_sub,pattern,thickness,formality,seasonality,care,status,image_path,last_worn_at,wear_count
+item_1,top,상의1,흰색,,solid,2,casual,winter,wash,available,,,0
+item_2,top,상의1,검정,,solid,2,casual,winter,wash,available,,,0
+item_3,top,상의2,회색,,solid,2,casual,winter,wash,available,,,0
